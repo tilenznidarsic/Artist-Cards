@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+.artist-link a {
+    text-decoration: none;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: white;
+    padding-left: 40px;
+    font-size: 14px;
+    font-family: 'Roboto Mono', monospace;
+}
